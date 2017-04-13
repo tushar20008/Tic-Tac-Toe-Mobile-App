@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Mobile-App
 - Android application to play tic-tac-toe with the computer.
-- Made using Eclipse platform.
+- Created using Eclipse platform in March, 2016.
 
 Algorithm used for different levels :
 
